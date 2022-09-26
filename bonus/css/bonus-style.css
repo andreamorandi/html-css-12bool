@@ -1,0 +1,32 @@
+[class*="col"] {
+    height: calc(100vw / 12);
+    border: 1px solid black;
+}
+
+.bc-red {
+    background-color: red;
+}
+
+.bc-light-brown {
+    background-color: #9a4c01;
+}
+
+.bc-dark-brown {
+    background-color:saddlebrown;
+}
+
+.bc-pink {
+    background-color: #ffcb99;
+}
+
+.bc-black{
+    background-color: black;
+}
+
+.bc-blue {
+    background-color: #0923dc;
+}
+
+.bc-yellow {
+    background-color: #ffff00;
+}
